@@ -1,0 +1,355 @@
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.HomePage.resources
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.LoginForms.resources
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductForms.resources
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.cache
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CopyComplete
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\BusinessLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\Entities.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\Entities.pdb
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.CustomerForms.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\BusinessLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\Entities.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\Entities.pdb
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.HomePage.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.LoginForms.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductForms.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.cache
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CopyComplete
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductAddUpdate.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.CompanyForms.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.CustomerForms.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductExplanationForms.resources
+C:\Users\YAVUZ İMER\Desktop\Home\PROJELER\C# Ticari Otomasyon\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.CustomerAddUpdate.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\BusinessLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\Entities.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\Entities.pdb
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.CompanyForms.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.CustomerAddUpdate.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.CustomerForms.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.HomePage.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.LoginForms.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductAddUpdate.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductExplanationForms.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductForms.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.cache
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CopyComplete
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\proje\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\BusinessLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\Entities.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\Entities.pdb
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Data.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.HomePage.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.LoginForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductAddUpdate.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.ProductForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.cache
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CopyComplete
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.PersonnelForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.GuideForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.MailForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.DebtForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.InvoiceForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.SaleForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.StockForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Charts.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.UI.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraBars.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraCharts.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraCharts.v20.2.UI.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraPrinting.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraTreeList.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraLayout.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraRichEdit.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.DataAccess.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.DataVisualization.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraGrid.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraNavBar.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.RichEdit.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Office.v20.2.Core.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Images.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Xpo.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.CodeParser.v20.2.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Utils.v20.2.UI.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraBars.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraCharts.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraCharts.v20.2.UI.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraCharts.v20.2.Wizard.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraPrinting.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraTreeList.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraLayout.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraRichEdit.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraVerticalGrid.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.DataAccess.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraGrid.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.XtraNavBar.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.RichEdit.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Office.v20.2.Core.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\DevExpress.Xpo.v20.2.xml
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Utils.v20.2.UI.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraBars.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraCharts.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraCharts.v20.2.Wizard.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraPrinting.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraTreeList.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraLayout.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.DataAccess.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraGrid.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.XtraNavBar.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.RichEdit.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Office.v20.2.Core.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\de\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\es\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ja\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\bin\Debug\ru\DevExpress.Xpo.v20.2.resources.dll
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.StockAddUpdate.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe.licenses
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.BasketForms.resources
+C:\Users\YAVUZ İMER\Desktop\TicariOtomasyon\WindowsFormsUI\obj\Debug\WindowsFormsUI.InvoiceAddForms.resources
